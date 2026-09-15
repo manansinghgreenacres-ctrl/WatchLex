@@ -3,9 +3,6 @@
 
 **Watchlex** is a full-stack web application designed to help users discover random movies and coordinate watch sessions with friends. 
 
-## 🚀 Live Demo
-[Insert your live deployment link here, or delete this line if not deployed yet]
-
 ## ✨ Features
 * **Dynamic Content Generation:** Leverages asynchronous API workflows to instantly serve random, curated film selections.
 * **Live API Integration:** Fetches real-time movie titles, summaries, ratings, and poster assets via the TMDB API.
